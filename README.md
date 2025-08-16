@@ -66,5 +66,7 @@ Arshia Estineh
 Machine Learning Developer | France 🇫🇷
 
 arshiaestineh2005@icloud.com
-.
+
+please star this repo if you found it useful.
+
 
